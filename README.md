@@ -6,6 +6,7 @@ Create an S3 backend for Terraform with DynamoDB table for state locking/consist
 
 ## Usage
 Set desired AWS region in remote-state/vars.tf
+
 Execute Terraform
 ```
 ./bootstrap.sh
